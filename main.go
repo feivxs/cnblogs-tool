@@ -1,6 +1,6 @@
 package main
 
-import "feivxs.cc/cbtool/cmd"
+import "github.com/feivxs/cbtool/cmd"
 
 func main() {
 	cmd.Execute()
